@@ -16,30 +16,30 @@ Alongside, I will also upload the score I obtained.
 
 | Day    | Challenge                                                           | Solutions                                                                                      |
 | ------ | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | 
-| 1      | [First gift repeated!](https://adventjs.dev/challenges/2024/1)      | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_1/main.js)       | 
-| 2      | [Framing names](https://adventjs.dev/challenges/2024/2)             | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_2/main.js)       | 
-| 3      | [Organizing the inventory](https://adventjs.dev/challenges/2024/3)  | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_3/main.js)       | 
-| 4      | [Not available](https://adventjs.dev/challenges/2024/4)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_4/main.js)  | 
-| 5      | [Not available](https://adventjs.dev/challenges/2024/5)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_5/main.js)  | 
-| 6      | [Not available](https://adventjs.dev/challenges/2024/6)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_6/main.js)  | 
-| 7      | [Not available](https://adventjs.dev/challenges/2024/7)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_7/main.js)  |
-| 8      | [Not available](https://adventjs.dev/challenges/2024/8)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_8/main.js)  |
-| 9      | [Not available](https://adventjs.dev/challenges/2024/9)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_9/main.js)  | 
-| 10     | [Not available](https://adventjs.dev/challenges/2024/10)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_10/main.js) |
-| 11     | [Not available](https://adventjs.dev/challenges/2024/11)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_11/main.js) | 
-| 12     | [Not available](https://adventjs.dev/challenges/2024/12)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_12/main.js) | 
-| 13     | [Not available](https://adventjs.dev/challenges/2024/13)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_13/main.js) |
-| 14     | [Not available](https://adventjs.dev/challenges/2024/14)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_14/main.js) |
-| 15     | [Not available](https://adventjs.dev/challenges/2024/15)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_15/main.js) |
-| 16     | [Not available](https://adventjs.dev/challenges/2024/16)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_16/main.js) |
-| 17     | [Not available](https://adventjs.dev/challenges/2024/17)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_17/main.js) |
-| 18     | [Not available](https://adventjs.dev/challenges/2024/18)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_18/main.js) |
-| 19     | [Not available](https://adventjs.dev/challenges/2024/19)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_19/main.js) |
-| 20     | [Not available](https://adventjs.dev/challenges/2024/20)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_20/main.js) |
-| 21     | [Not available](https://adventjs.dev/challenges/2024/21)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_21/main.js) |
-| 22     | [Not available](https://adventjs.dev/challenges/2024/22)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_22/main.js) |
-| 23     | [Not available](https://adventjs.dev/challenges/2024/23)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_23/main.js) |
-| 24     | [Not available](https://adventjs.dev/challenges/2024/24)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_24/main.js) |
-| 25     | [Not available](https://adventjs.dev/challenges/2024/25)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge_25/main.js) |
+| 1      | [First gift repeated!](https://adventjs.dev/challenges/2024/1)      | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%201/main.js)       | 
+| 2      | [Framing names](https://adventjs.dev/challenges/2024/2)             | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%202/main.js)       | 
+| 3      | [Organizing the inventory](https://adventjs.dev/challenges/2024/3)  | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%203/main.js)       | 
+| 4      | [Not available](https://adventjs.dev/challenges/2024/4)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%204/main.js)  | 
+| 5      | [Not available](https://adventjs.dev/challenges/2024/5)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%205/main.js)  | 
+| 6      | [Not available](https://adventjs.dev/challenges/2024/6)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%206/main.js)  | 
+| 7      | [Not available](https://adventjs.dev/challenges/2024/7)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%207/main.js)  |
+| 8      | [Not available](https://adventjs.dev/challenges/2024/8)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%208/main.js)  |
+| 9      | [Not available](https://adventjs.dev/challenges/2024/9)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%209/main.js)  | 
+| 10     | [Not available](https://adventjs.dev/challenges/2024/10)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2010/main.js) |
+| 11     | [Not available](https://adventjs.dev/challenges/2024/11)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2011/main.js) | 
+| 12     | [Not available](https://adventjs.dev/challenges/2024/12)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2012/main.js) | 
+| 13     | [Not available](https://adventjs.dev/challenges/2024/13)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2013/main.js) |
+| 14     | [Not available](https://adventjs.dev/challenges/2024/14)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2014/main.js) |
+| 15     | [Not available](https://adventjs.dev/challenges/2024/15)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2015/main.js) |
+| 16     | [Not available](https://adventjs.dev/challenges/2024/16)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2016/main.js) |
+| 17     | [Not available](https://adventjs.dev/challenges/2024/17)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2017/main.js) |
+| 18     | [Not available](https://adventjs.dev/challenges/2024/18)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2018/main.js) |
+| 19     | [Not available](https://adventjs.dev/challenges/2024/19)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2019/main.js) |
+| 20     | [Not available](https://adventjs.dev/challenges/2024/20)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2020/main.js) |
+| 21     | [Not available](https://adventjs.dev/challenges/2024/21)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2021/main.js) |
+| 22     | [Not available](https://adventjs.dev/challenges/2024/22)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2022/main.js) |
+| 23     | [Not available](https://adventjs.dev/challenges/2024/23)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2023/main.js) |
+| 24     | [Not available](https://adventjs.dev/challenges/2024/24)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2024/main.js) |
+| 25     | [Not available](https://adventjs.dev/challenges/2024/25)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2025/main.js) |
 
 ---
