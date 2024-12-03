@@ -12,6 +12,16 @@ Each day has its own folder, named something like "Challenge x", where I put my 
 
 Alongside, I will also upload the score I obtained.
 
+## How to use
+In the package.json there are some scripts run by NPM that will help you execute easily the code for each challenge.
+
+For example, for the first challenge, you must pass arguments (numbers, in this case). 
+To accomplish it, you only need to type the numbers separated by spaces alongside the script.
+
+```
+npm run day1 85 3 475 39 1 30 4
+```
+
 ## Table of Contents
 
 | Day    | Challenge                                                           | Solutions                                                                                      |

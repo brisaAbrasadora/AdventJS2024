@@ -4,5 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "author": "Danielle Rabago Prades",
-  "scripts": {}
+  "scripts": {
+    "day1": "cd \"Challenge 1\" && node main",
+    "day2": "cd \"Challenge 2\" && node main"
+  }
 }
