@@ -7,6 +7,6 @@
   "scripts": {
     "day1": "cd \"Challenge 1\" && node main",
     "day2": "cd \"Challenge 2\" && node main",
-    "day3": "cd \"Challenge 3\" && node main data.json"
-  }
+    "day3": "cd \"Challenge 3\" && node main data.json",
+    "day4": "cd \"Challenge 4\" && node main 7 $"  }
 }

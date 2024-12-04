@@ -36,7 +36,7 @@ Luckily, I found my way and managed to reach to a conclusion. It was a disaster 
 ### Second try
 
 I uploaded my solution in a Discord server and a friendly user (@thencyn) suggested that I should
-take a look at the `?==`operator. Honestly I don't recall studying it, so I will learn a lot about it.
+take a look at the `??=`operator. Honestly I don't recall studying it, so I will learn a lot about it.
 
 Truly, the `??=` turned out to be very handy. 
 

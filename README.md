@@ -29,7 +29,7 @@ npm run day1 85 3 475 39 1 30 4
 | 1      | [First gift repeated!](https://adventjs.dev/challenges/2024/1)      | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%201/main.js)       | 
 | 2      | [Framing names](https://adventjs.dev/challenges/2024/2)             | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%202/main.js)       | 
 | 3      | [Organizing the inventory](https://adventjs.dev/challenges/2024/3)  | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%203/main.js)       | 
-| 4      | [Not available](https://adventjs.dev/challenges/2024/4)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%204/main.js)  | 
+| 4      | [Decorating the Christmas tree](https://adventjs.dev/challenges/2024/4) | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%204/main.js)  | 
 | 5      | [Not available](https://adventjs.dev/challenges/2024/5)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%205/main.js)  | 
 | 6      | [Not available](https://adventjs.dev/challenges/2024/6)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%206/main.js)  | 
 | 7      | [Not available](https://adventjs.dev/challenges/2024/7)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%207/main.js)  |
