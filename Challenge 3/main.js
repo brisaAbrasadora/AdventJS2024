@@ -6,18 +6,9 @@ function organizeInventory(inventory) {
 
   inventory.forEach((item) => {
     const {name, quantity, category} = {...item};
-    const s = `{ "${category}" : { "${name}" : ${quantity} } }`;
-    const obj = JSON.parse(s);
-    const newCategory = !result.hasOwnProperty(category);
-    const newItem = !result[category]?.hasOwnProperty(name);
-
-    if(newCategory) {
-      result = {...result, ...obj};
-    } else if(newItem) {
-      result[category] = {...result[category], ...obj[category]};
-    } else {
-      result[category][name] += obj[category][name];
-    }
+    result[category] ??= {};
+    result[category][name] ??= 0
+    result[category][name] += quantity;
   });
 
   return result;
