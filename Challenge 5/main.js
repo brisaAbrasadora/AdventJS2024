@@ -5,16 +5,20 @@ function organizeShoes(shoes) {
   let result = [];
   const organizedShoes = {};
 
-  shoes.forEach(({type, size}) => {
-    organizedShoes[size] ??= {};
-    organizedShoes[size]["R"] ??= 0;
-    organizedShoes[size]["I"] ??= 0;
+  for(const {type, size} of shoes) {
+    organizedShoes[size] ??= {
+      'R': 0,
+      'I': 0,
+    };
     organizedShoes[size][type]++;
-  });
+  }
 
   for (const [key, {I, R}] of Object.entries(organizedShoes)) {
     const pairs = Math.min(R, I);
-    result = [...result, ...Array(pairs).fill(+key)];
+
+    for(let i = 0; i < pairs; i++) {
+      result.push(+key);
+    }
   }
 
   return result;
