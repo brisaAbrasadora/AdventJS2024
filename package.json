@@ -10,6 +10,8 @@
     "day3": "cd \"Challenge 3\" && node main data.json",
     "day4": "cd \"Challenge 4\" && node main 7 $",
     "day5": "cd \"Challenge 5\" && node main data.json",
-    "day6": "cd \"Challenge 6\" && node main"
+    "day6": "cd \"Challenge 6\" && node main",
+    "day7": "cd \"Challenge 7\" && node main",
+    "preday7": "cd \"Challenge 7\" && node tests"
    }
 }

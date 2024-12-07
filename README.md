@@ -31,8 +31,8 @@ npm run day1 85 3 475 39 1 30 4
 | 3      | [Organizing the inventory](https://adventjs.dev/challenges/2024/3)  | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%203/main.js)       | 
 | 4      | [Decorating the Christmas tree](https://adventjs.dev/challenges/2024/4) | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%204/main.js)  | 
 | 5      | [Shoe pairing](https://adventjs.dev/challenges/2024/5)              | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%205/main.js)  | 
-| 6      | [Is the fift inside the box?](https://adventjs.dev/challenges/2024/6) | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%206/main.js)  | 
-| 7      | [Not available](https://adventjs.dev/challenges/2024/7)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%207/main.js)  |
+| 6      | [Is the gift inside the box?](https://adventjs.dev/challenges/2024/6) | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%206/main.js)  | 
+| 7      | [The Grinch's attack](https://adventjs.dev/challenges/2024/7)       | [Solution](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%207/main.js)  |
 | 8      | [Not available](https://adventjs.dev/challenges/2024/8)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%208/main.js)  |
 | 9      | [Not available](https://adventjs.dev/challenges/2024/9)             | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%209/main.js)  | 
 | 10     | [Not available](https://adventjs.dev/challenges/2024/10)            | [Not available](https://github.com/brisaAbrasadora/AdventJS2024/tree/main/Challenge%2010/main.js) |
